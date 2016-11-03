@@ -1,1 +1,1 @@
-#Starter Node template w Handlebars, Express, Chai, Mocha, Zombie
+#Starter Node template w Handlebars, Express, Chai, Mocha, Zombie, Grunt
